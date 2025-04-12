@@ -15,7 +15,7 @@ import (
 
 var (
 	port       = 2096
-	nodeAddr   = "172.27.158.135"
+	nodeAddr   = "node.mosed.ir"
 	serverCA   = "certs/ssl_cert.pem"
 	apiKey     = "d04d8680-942d-4365-992f-9f482275691d"
 	configPath = "config/xray.json"
